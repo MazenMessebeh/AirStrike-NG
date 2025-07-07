@@ -1,0 +1,500 @@
+Jun 30 03:30:44 router daemon.info dnsmasq-dhcp: DHCPACK(eth0) 192.168.1.10 5C:F9:38:77:22:1A
+Jun 30 16:26:16 router daemon.info hostapd: wlan0: STA AA:BB:CC:DD:EE:FF WPA: group key handshake completed
+Jun 30 15:49:26 router daemon.info dnsmasq-dhcp: DHCPDISCOVER(eth0) from 00:11:22:33:44:55
+Jun 30 03:26:34 router daemon.notice netifd: Interface wlan0 has link connectivity
+Jul 01 03:51:28 router daemon.warn firewall: Blocked connection attempt from 172.16.0.1 to port 23 (FTP)
+Jun 30 23:10:08 router daemon.notice systemd: Time synchronization achieved
+Jun 30 04:33:10 router daemon.info dnsmasq-dhcp: DHCPDISCOVER(eth0) from DE:AD:BE:EF:FE:ED
+Jul 01 06:57:46 router daemon.notice netifd: Network device wlan0 (phy0) link is up
+Jun 30 15:43:04 router daemon.notice systemd: Time synchronization achieved
+Jun 30 11:19:06 router daemon.info dnsmasq-dhcp: DHCPDISCOVER(eth0) from DE:AD:BE:EF:FE:ED
+Jul 01 08:00:00 router daemon.warn hostapd: wlan0: STA AA:BB:CC:DD:EE:FF IEEE 802.11: deauthenticated due to local deauth request
+Jun 30 12:49:38 router daemon.warn firewall: Blocked connection attempt from 192.168.1.10 to port 22 (HTTP)
+Jul 01 04:36:48 router daemon.info hostapd: wlan0: STA 12:34:56:78:9A:BC IEEE 802.11: disconnected
+Jun 30 05:49:59 router daemon.info hostapd: wlan0: STA AA:BB:CC:DD:EE:FF IEEE 802.11: associated
+Jun 30 21:18:32 router daemon.alert hostapd: wlan0: Possible deauth flood detected from DE:AD:BE:EF:FE:ED
+Jun 30 19:58:11 router daemon.info dnsmasq-dhcp: DHCPDISCOVER(eth0) from DE:AD:BE:EF:FE:ED
+Jul 01 07:06:14 router kernel: IN=eth0 OUT= MAC=xx SRC=10.0.0.12 DST=192.168.1.1 PROTO=UDP SPT=1990 DPT=80
+Jun 30 14:39:00 router daemon.notice crond: Executed scheduled job `/usr/bin/logrotate`
+Jul 01 07:50:24 router daemon.notice crond: Executed scheduled job `/usr/bin/logrotate`
+Jul 01 04:42:13 router daemon.warn hostapd: wlan0: STA AA:BB:CC:DD:EE:FF IEEE 802.11: deauthenticated due to local deauth request
+Jun 30 16:47:30 router daemon.alert hostapd: wlan0: Possible deauth flood detected from DE:AD:BE:EF:FE:ED
+Jun 30 06:18:12 router kernel: IN=eth0 OUT= MAC=xx SRC=192.168.1.50 DST=192.168.1.1 PROTO=UDP SPT=29110 DPT=443
+Jun 30 12:20:00 router daemon.info hostapd: wlan0: STA 5C:F9:38:77:22:1A WPA: group key handshake completed
+Jun 30 09:52:09 router daemon.notice systemd: Time synchronization achieved
+Jun 30 00:54:10 router daemon.info dnsmasq-dhcp: DHCPACK(eth0) 192.168.1.50 5C:F9:38:77:22:1A
+Jun 30 16:59:39 router daemon.notice systemd: Time synchronization achieved
+Jul 01 05:48:31 router daemon.alert hostapd: wlan0: Possible deauth flood detected from DE:AD:BE:EF:FE:ED
+Jun 30 05:52:08 router daemon.info hostapd: wlan0: STA 5C:F9:38:77:22:1A WPA: group key handshake completed
+Jul 01 04:01:29 router daemon.info hostapd: wlan0: STA 84:16:F9:8D:62:5E WPA: group key handshake completed
+Jul 01 01:49:51 router daemon.err kernel: CPU load spike detected on core 2
+Jul 01 03:21:58 router daemon.err kernel: CPU load spike detected on core 2
+Jun 30 11:36:27 router daemon.alert hostapd: wlan0: Possible deauth flood detected from 00:11:22:33:44:55
+Jun 30 06:23:23 router daemon.info dnsmasq-dhcp: DHCPDISCOVER(eth0) from DE:AD:BE:EF:FE:ED
+Jun 30 20:45:09 router daemon.info dnsmasq-dhcp: DHCPACK(eth0) 10.0.0.12 5C:F9:38:77:22:1A
+Jun 30 23:07:04 router daemon.info dnsmasq-dhcp: DHCPACK(eth0) 203.0.113.5 00:11:22:33:44:55
+Jun 30 07:12:15 router daemon.notice crond: Executed scheduled job `/usr/bin/logrotate`
+Jun 30 14:47:13 router daemon.notice netifd: Network device wlan0 (phy0) link is up
+Jul 01 01:59:35 router daemon.warn hostapd: wlan0: STA 84:16:F9:8D:62:5E IEEE 802.11: deauthenticated due to local deauth request
+Jun 30 15:20:56 router daemon.info hostapd: wlan0: STA 5C:F9:38:77:22:1A IEEE 802.11: associated
+Jul 01 01:00:56 router kernel: [UFW BLOCK] IN=eth0 OUT= MAC=xx SRC=192.168.1.15 DST=192.168.1.1 PROTO=ICMP TYPE=8 CODE=0
+Jul 01 07:36:47 router daemon.warn hostapd: wlan0: STA 5C:F9:38:77:22:1A IEEE 802.11: deauthenticated due to local deauth request
+Jul 01 04:24:03 router daemon.warn firewall: Blocked connection attempt from 10.0.0.12 to port 23 (HTTP)
+Jul 01 04:04:20 router daemon.info hostapd: wlan0: STA 00:11:22:33:44:55 WPA: group key handshake completed
+Jun 30 20:22:38 router daemon.notice admin: User 'guest' logged in from 192.168.1.10
+Jun 30 14:22:23 router kernel: IN=eth0 OUT= MAC=xx SRC=10.0.0.12 DST=192.168.1.1 PROTO=TCP SPT=42895 DPT=8080
+Jun 30 01:29:50 router daemon.err kernel: CPU load spike detected on core 2
+Jul 01 07:30:39 router daemon.info hostapd: wlan0: STA 12:34:56:78:9A:BC IEEE 802.11: associated
+Jun 30 03:24:21 router daemon.notice netifd: Interface wlan0 has link connectivity
+Jul 01 00:52:00 router daemon.notice netifd: Interface wlan0 has link connectivity
+Jun 30 03:18:04 router daemon.notice netifd: Network device wlan0 (phy0) link is up
+Jun 30 17:38:33 router daemon.err kernel: CPU load spike detected on core 2
+Jul 01 02:02:47 router daemon.notice admin: User 'root' logged in from 192.168.1.21
+Jun 30 16:17:06 router daemon.info hostapd: wlan0: STA AA:BB:CC:DD:EE:FF WPA: group key handshake completed
+Jun 30 02:16:03 router daemon.notice systemd: Time synchronization achieved
+Jun 30 12:30:40 router daemon.err kernel: CPU load spike detected on core 2
+Jun 30 01:59:38 router daemon.notice netifd: Interface wlan0 has link connectivity
+Jun 30 22:51:55 router daemon.notice admin: User 'root' logged in from 192.168.1.21
+Jun 30 16:16:53 router daemon.info dnsmasq-dhcp: DHCPDISCOVER(eth0) from AA:BB:CC:DD:EE:FF
+Jul 01 09:17:29 router daemon.info hostapd: wlan0: STA 84:16:F9:8D:62:5E IEEE 802.11: disconnected
+Jul 01 01:05:46 router daemon.info hostapd: wlan0: STA 5C:F9:38:77:22:1A IEEE 802.11: associated
+Jun 30 20:14:56 router daemon.notice netifd: Network device wlan0 (phy0) link is up
+Jul 01 01:54:31 router daemon.info hostapd: wlan0: STA 5C:F9:38:77:22:1A IEEE 802.11: associated
+Jun 30 02:57:32 router daemon.notice admin: User 'guest' logged in from 192.168.1.21
+Jun 30 14:26:09 router daemon.notice netifd: Interface wlan0 has link connectivity
+Jul 01 03:42:51 router daemon.warn firewall: Blocked connection attempt from 192.168.1.15 to port 23 (HTTPS)
+Jun 30 16:05:44 router daemon.warn firewall: Blocked connection attempt from 10.0.0.12 to port 23 (TELNET)
+Jun 30 22:48:25 router daemon.info dnsmasq-dhcp: DHCPACK(eth0) 203.0.113.5 12:34:56:78:9A:BC
+Jul 01 06:35:48 router daemon.notice netifd: Network device wlan0 (phy0) link is up
+Jun 30 19:36:46 router daemon.alert hostapd: wlan0: Possible deauth flood detected from AA:BB:CC:DD:EE:FF
+Jul 01 00:49:55 router kernel: [UFW BLOCK] IN=eth0 OUT= MAC=xx SRC=192.168.1.21 DST=192.168.1.1 PROTO=ICMP TYPE=8 CODE=0
+Jun 30 01:24:03 router daemon.info dnsmasq-dhcp: DHCPACK(eth0) 192.168.1.15 DE:AD:BE:EF:FE:ED
+Jun 30 19:53:25 router daemon.notice admin: User 'guest' logged in from 192.168.1.50
+Jun 30 05:39:33 router daemon.info dnsmasq-dhcp: DHCPDISCOVER(eth0) from 5C:F9:38:77:22:1A
+Jul 01 07:50:01 router daemon.info hostapd: wlan0: STA 84:16:F9:8D:62:5E WPA: group key handshake completed
+Jul 01 05:59:51 router daemon.info hostapd: wlan0: STA 12:34:56:78:9A:BC IEEE 802.11: associated
+Jul 01 03:55:36 router daemon.notice admin: User 'guest' logged in from 10.0.0.12
+Jun 30 16:17:18 router daemon.notice admin: User 'guest' logged in from 192.168.1.15
+Jul 01 06:05:54 router daemon.info dnsmasq-dhcp: DHCPACK(eth0) 192.168.1.15 00:11:22:33:44:55
+Jul 01 04:14:27 router daemon.err kernel: CPU load spike detected on core 2
+Jun 30 20:16:55 router kernel: [UFW BLOCK] IN=eth0 OUT= MAC=xx SRC=192.168.1.15 DST=192.168.1.1 PROTO=ICMP TYPE=8 CODE=0
+Jul 01 03:30:32 router daemon.alert hostapd: wlan0: Possible deauth flood detected from 12:34:56:78:9A:BC
+Jul 01 06:07:52 router daemon.err kernel: CPU load spike detected on core 2
+Jul 01 06:06:23 router daemon.notice netifd: Interface wlan0 has link connectivity
+Jun 30 21:54:47 router kernel: [UFW BLOCK] IN=eth0 OUT= MAC=xx SRC=192.168.1.15 DST=192.168.1.1 PROTO=ICMP TYPE=8 CODE=0
+Jun 30 07:34:57 router daemon.info hostapd: wlan0: STA 12:34:56:78:9A:BC IEEE 802.11: associated
+Jun 30 17:10:15 router daemon.info dnsmasq-dhcp: DHCPACK(eth0) 172.16.0.1 00:11:22:33:44:55
+Jun 30 16:03:27 router daemon.info dnsmasq-dhcp: DHCPACK(eth0) 10.0.0.12 5C:F9:38:77:22:1A
+Jun 30 20:50:34 router kernel: IN=eth0 OUT= MAC=xx SRC=192.168.1.50 DST=192.168.1.1 PROTO=UDP SPT=52686 DPT=22
+Jun 30 12:12:52 router kernel: [UFW BLOCK] IN=eth0 OUT= MAC=xx SRC=192.168.1.21 DST=192.168.1.1 PROTO=ICMP TYPE=8 CODE=0
+Jun 30 18:49:08 router daemon.info hostapd: wlan0: STA AA:BB:CC:DD:EE:FF IEEE 802.11: associated
+Jun 30 10:31:09 router daemon.info hostapd: wlan0: STA 84:16:F9:8D:62:5E IEEE 802.11: disconnected
+Jun 30 01:31:13 router daemon.notice crond: Executed scheduled job `/usr/bin/logrotate`
+Jun 30 01:58:58 router daemon.notice netifd: Network device wlan0 (phy0) link is up
+Jul 01 08:30:54 router daemon.notice crond: Executed scheduled job `/usr/bin/logrotate`
+Jun 30 05:00:50 router daemon.info hostapd: wlan0: STA 12:34:56:78:9A:BC WPA: group key handshake completed
+Jun 30 00:51:25 router kernel: [UFW BLOCK] IN=eth0 OUT= MAC=xx SRC=192.168.1.21 DST=192.168.1.1 PROTO=ICMP TYPE=8 CODE=0
+Jul 01 02:57:32 router kernel: [UFW BLOCK] IN=eth0 OUT= MAC=xx SRC=192.168.1.15 DST=192.168.1.1 PROTO=ICMP TYPE=8 CODE=0
+Jun 30 23:23:05 router daemon.warn hostapd: wlan0: STA 5C:F9:38:77:22:1A IEEE 802.11: deauthenticated due to local deauth request
+Jun 30 15:35:29 router daemon.notice crond: Executed scheduled job `/usr/bin/logrotate`
+Jun 30 19:52:41 router kernel: [UFW BLOCK] IN=eth0 OUT= MAC=xx SRC=192.168.1.10 DST=192.168.1.1 PROTO=ICMP TYPE=8 CODE=0
+Jun 30 04:27:33 router kernel: [UFW BLOCK] IN=eth0 OUT= MAC=xx SRC=192.168.1.21 DST=192.168.1.1 PROTO=ICMP TYPE=8 CODE=0
+Jun 30 11:12:26 router daemon.warn hostapd: wlan0: STA DE:AD:BE:EF:FE:ED IEEE 802.11: deauthenticated due to local deauth request
+Jun 30 21:50:38 router daemon.notice netifd: Network device wlan0 (phy0) link is up
+Jul 01 01:35:04 router daemon.info dnsmasq-dhcp: DHCPDISCOVER(eth0) from AA:BB:CC:DD:EE:FF
+Jul 01 02:05:54 router daemon.notice crond: Executed scheduled job `/usr/bin/logrotate`
+Jun 30 14:50:16 router daemon.warn firewall: Blocked connection attempt from 192.168.1.21 to port 80 (HTTPS)
+Jul 01 04:18:34 router daemon.err kernel: CPU load spike detected on core 2
+Jun 30 16:28:06 router daemon.warn firewall: Blocked connection attempt from 192.168.1.21 to port 8080 (FTP)
+Jun 30 14:19:47 router daemon.alert hostapd: wlan0: Possible deauth flood detected from 5C:F9:38:77:22:1A
+Jun 30 17:08:56 router daemon.notice netifd: Interface wlan0 has link connectivity
+Jul 01 07:15:45 router daemon.info dnsmasq-dhcp: DHCPACK(eth0) 192.168.1.21 DE:AD:BE:EF:FE:ED
+Jun 30 07:28:01 router daemon.notice netifd: Interface wlan0 has link connectivity
+Jun 30 18:28:51 router daemon.info dnsmasq-dhcp: DHCPACK(eth0) 203.0.113.5 84:16:F9:8D:62:5E
+Jun 30 02:29:36 router daemon.alert hostapd: wlan0: Possible deauth flood detected from 00:11:22:33:44:55
+Jun 30 13:57:23 router daemon.warn hostapd: wlan0: STA DE:AD:BE:EF:FE:ED IEEE 802.11: deauthenticated due to local deauth request
+Jun 30 01:48:40 router daemon.warn firewall: Blocked connection attempt from 192.168.1.15 to port 80 (HTTP)
+Jun 30 14:25:14 router kernel: IN=eth0 OUT= MAC=xx SRC=192.168.1.10 DST=192.168.1.1 PROTO=TCP SPT=3597 DPT=22
+Jun 30 05:14:26 router daemon.info hostapd: wlan0: STA 84:16:F9:8D:62:5E WPA: group key handshake completed
+Jun 30 21:08:52 router daemon.notice admin: User 'admin' logged in from 172.16.0.1
+Jun 30 04:02:06 router daemon.notice crond: Executed scheduled job `/usr/bin/logrotate`
+Jun 30 13:05:49 router daemon.notice crond: Executed scheduled job `/usr/bin/logrotate`
+Jun 30 02:49:59 router daemon.info hostapd: wlan0: STA 5C:F9:38:77:22:1A IEEE 802.11: disconnected
+Jun 30 14:52:29 router daemon.notice systemd: Time synchronization achieved
+Jun 30 22:01:28 router daemon.info dnsmasq-dhcp: DHCPACK(eth0) 203.0.113.5 AA:BB:CC:DD:EE:FF
+Jul 01 02:06:29 router daemon.warn hostapd: wlan0: STA 00:11:22:33:44:55 IEEE 802.11: deauthenticated due to local deauth request
+Jun 30 15:37:43 router daemon.notice netifd: Interface wlan0 has link connectivity
+Jun 30 17:45:02 router daemon.warn hostapd: wlan0: STA 12:34:56:78:9A:BC IEEE 802.11: deauthenticated due to local deauth request
+Jun 30 08:46:51 router daemon.notice netifd: Network device wlan0 (phy0) link is up
+Jul 01 05:04:47 router daemon.warn hostapd: wlan0: STA 00:11:22:33:44:55 IEEE 802.11: deauthenticated due to local deauth request
+Jun 30 15:06:24 router kernel: [UFW BLOCK] IN=eth0 OUT= MAC=xx SRC=192.168.1.10 DST=192.168.1.1 PROTO=ICMP TYPE=8 CODE=0
+Jun 30 03:43:24 router daemon.notice systemd: Time synchronization achieved
+Jul 01 03:35:32 router kernel: [UFW BLOCK] IN=eth0 OUT= MAC=xx SRC=172.16.0.1 DST=192.168.1.1 PROTO=ICMP TYPE=8 CODE=0
+Jul 01 04:36:44 router daemon.notice netifd: Network device wlan0 (phy0) link is up
+Jul 01 06:12:36 router daemon.notice netifd: Interface wlan0 has link connectivity
+Jul 01 02:55:44 router daemon.alert hostapd: wlan0: Possible deauth flood detected from DE:AD:BE:EF:FE:ED
+Jun 30 07:05:32 router daemon.notice netifd: Interface wlan0 has link connectivity
+Jun 30 12:44:42 router daemon.notice netifd: Network device wlan0 (phy0) link is up
+Jun 30 07:28:33 router kernel: IN=eth0 OUT= MAC=xx SRC=192.168.1.15 DST=192.168.1.1 PROTO=UDP SPT=18279 DPT=23
+Jun 30 08:13:22 router daemon.alert hostapd: wlan0: Possible deauth flood detected from DE:AD:BE:EF:FE:ED
+Jun 30 18:01:20 router daemon.info hostapd: wlan0: STA 00:11:22:33:44:55 IEEE 802.11: associated
+Jun 30 08:41:45 router daemon.err kernel: CPU load spike detected on core 2
+Jul 01 05:27:33 router daemon.notice crond: Executed scheduled job `/usr/bin/logrotate`
+Jun 30 06:17:23 router daemon.notice admin: User 'guest' logged in from 203.0.113.5
+Jun 30 10:59:40 router daemon.err kernel: CPU load spike detected on core 2
+Jun 30 11:08:28 router daemon.info dnsmasq-dhcp: DHCPDISCOVER(eth0) from 5C:F9:38:77:22:1A
+Jun 30 08:57:56 router daemon.info hostapd: wlan0: STA 84:16:F9:8D:62:5E WPA: group key handshake completed
+Jun 30 01:07:38 router daemon.warn firewall: Blocked connection attempt from 192.168.1.21 to port 443 (HTTP)
+Jun 30 06:53:03 router daemon.notice systemd: Time synchronization achieved
+Jun 30 08:52:49 router daemon.notice admin: User 'root' logged in from 192.168.1.21
+Jun 30 19:00:13 router daemon.notice netifd: Network device wlan0 (phy0) link is up
+Jul 01 08:01:14 router daemon.alert hostapd: wlan0: Possible deauth flood detected from DE:AD:BE:EF:FE:ED
+Jun 30 12:15:26 router kernel: IN=eth0 OUT= MAC=xx SRC=192.168.1.15 DST=192.168.1.1 PROTO=TCP SPT=40994 DPT=443
+Jun 30 04:52:55 router daemon.info hostapd: wlan0: STA 5C:F9:38:77:22:1A IEEE 802.11: associated
+Jun 30 12:57:43 router daemon.info dnsmasq-dhcp: DHCPDISCOVER(eth0) from AA:BB:CC:DD:EE:FF
+Jun 30 15:55:51 router daemon.info hostapd: wlan0: STA 84:16:F9:8D:62:5E WPA: group key handshake completed
+Jun 30 08:04:31 router daemon.info hostapd: wlan0: STA AA:BB:CC:DD:EE:FF IEEE 802.11: associated
+Jun 30 01:44:04 router daemon.notice crond: Executed scheduled job `/usr/bin/logrotate`
+Jun 30 16:35:14 router daemon.notice crond: Executed scheduled job `/usr/bin/logrotate`
+Jul 01 08:57:47 router daemon.info hostapd: wlan0: STA 84:16:F9:8D:62:5E WPA: group key handshake completed
+Jul 01 06:12:32 router daemon.notice systemd: Time synchronization achieved
+Jun 30 15:43:36 router daemon.notice systemd: Time synchronization achieved
+Jun 30 05:44:08 router daemon.info dnsmasq-dhcp: DHCPDISCOVER(eth0) from 5C:F9:38:77:22:1A
+Jul 01 02:08:41 router daemon.notice netifd: Interface wlan0 has link connectivity
+Jun 30 09:56:27 router daemon.info dnsmasq-dhcp: DHCPDISCOVER(eth0) from 84:16:F9:8D:62:5E
+Jun 30 04:53:22 router daemon.notice systemd: Time synchronization achieved
+Jun 30 12:51:55 router daemon.warn firewall: Blocked connection attempt from 192.168.1.15 to port 23 (HTTPS)
+Jun 30 13:05:08 router daemon.notice netifd: Network device wlan0 (phy0) link is up
+Jun 30 18:03:30 router daemon.notice systemd: Time synchronization achieved
+Jun 30 18:42:27 router daemon.notice crond: Executed scheduled job `/usr/bin/logrotate`
+Jun 30 18:08:20 router daemon.info hostapd: wlan0: STA 00:11:22:33:44:55 IEEE 802.11: associated
+Jun 30 13:43:46 router daemon.info hostapd: wlan0: STA 00:11:22:33:44:55 WPA: group key handshake completed
+Jul 01 05:54:22 router daemon.info dnsmasq-dhcp: DHCPACK(eth0) 192.168.1.15 00:11:22:33:44:55
+Jun 30 19:56:34 router daemon.err kernel: CPU load spike detected on core 2
+Jun 30 07:09:03 router daemon.info dnsmasq-dhcp: DHCPDISCOVER(eth0) from 84:16:F9:8D:62:5E
+Jun 30 13:28:40 router daemon.notice netifd: Interface wlan0 has link connectivity
+Jun 30 01:48:51 router daemon.info hostapd: wlan0: STA AA:BB:CC:DD:EE:FF IEEE 802.11: disconnected
+Jun 30 17:11:52 router daemon.info dnsmasq-dhcp: DHCPACK(eth0) 10.0.0.12 DE:AD:BE:EF:FE:ED
+Jun 30 00:41:39 router daemon.err kernel: CPU load spike detected on core 2
+Jun 30 23:28:26 router daemon.notice netifd: Network device wlan0 (phy0) link is up
+Jun 30 17:11:46 router daemon.notice systemd: Time synchronization achieved
+Jun 30 16:09:24 router daemon.err kernel: CPU load spike detected on core 2
+Jun 30 19:48:14 router daemon.info hostapd: wlan0: STA 00:11:22:33:44:55 IEEE 802.11: disconnected
+Jul 01 05:04:25 router daemon.notice crond: Executed scheduled job `/usr/bin/logrotate`
+Jun 30 09:15:31 router daemon.warn hostapd: wlan0: STA 5C:F9:38:77:22:1A IEEE 802.11: deauthenticated due to local deauth request
+Jun 30 04:45:33 router daemon.info dnsmasq-dhcp: DHCPACK(eth0) 192.168.1.50 5C:F9:38:77:22:1A
+Jun 30 18:22:16 router kernel: [UFW BLOCK] IN=eth0 OUT= MAC=xx SRC=192.168.1.10 DST=192.168.1.1 PROTO=ICMP TYPE=8 CODE=0
+Jun 30 02:12:22 router daemon.warn firewall: Blocked connection attempt from 192.168.1.50 to port 23 (TELNET)
+Jun 30 19:55:45 router daemon.info hostapd: wlan0: STA AA:BB:CC:DD:EE:FF IEEE 802.11: associated
+Jun 30 02:01:43 router kernel: [UFW BLOCK] IN=eth0 OUT= MAC=xx SRC=192.168.1.50 DST=192.168.1.1 PROTO=ICMP TYPE=8 CODE=0
+Jun 30 00:34:14 router daemon.info dnsmasq-dhcp: DHCPDISCOVER(eth0) from DE:AD:BE:EF:FE:ED
+Jun 30 20:41:26 router daemon.notice admin: User 'admin' logged in from 10.0.0.12
+Jun 30 09:43:52 router kernel: [UFW BLOCK] IN=eth0 OUT= MAC=xx SRC=203.0.113.5 DST=192.168.1.1 PROTO=ICMP TYPE=8 CODE=0
+Jun 30 16:29:07 router daemon.info dnsmasq-dhcp: DHCPACK(eth0) 192.168.1.15 AA:BB:CC:DD:EE:FF
+Jun 30 07:21:58 router daemon.info hostapd: wlan0: STA 00:11:22:33:44:55 WPA: group key handshake completed
+Jun 30 12:58:42 router daemon.alert hostapd: wlan0: Possible deauth flood detected from 5C:F9:38:77:22:1A
+Jul 01 04:36:14 router daemon.notice netifd: Network device wlan0 (phy0) link is up
+Jul 01 08:17:04 router daemon.notice netifd: Network device wlan0 (phy0) link is up
+Jun 30 17:41:25 router kernel: IN=eth0 OUT= MAC=xx SRC=192.168.1.10 DST=192.168.1.1 PROTO=ICMP SPT=5583 DPT=22
+Jun 30 04:13:59 router daemon.notice systemd: Time synchronization achieved
+Jun 30 10:43:13 router daemon.notice systemd: Time synchronization achieved
+Jun 30 23:18:04 router daemon.alert hostapd: wlan0: Possible deauth flood detected from 84:16:F9:8D:62:5E
+Jun 30 16:11:14 router daemon.err kernel: CPU load spike detected on core 2
+Jul 01 03:46:48 router daemon.notice crond: Executed scheduled job `/usr/bin/logrotate`
+Jul 01 03:55:36 router daemon.notice netifd: Network device wlan0 (phy0) link is up
+Jul 01 02:22:21 router daemon.notice netifd: Interface wlan0 has link connectivity
+Jul 01 05:11:51 router daemon.notice systemd: Time synchronization achieved
+Jul 01 03:14:53 router daemon.notice admin: User 'guest' logged in from 203.0.113.5
+Jun 30 07:03:14 router daemon.info dnsmasq-dhcp: DHCPACK(eth0) 203.0.113.5 12:34:56:78:9A:BC
+Jun 30 21:50:42 router daemon.notice admin: User 'root' logged in from 10.0.0.12
+Jun 30 23:16:46 router daemon.info hostapd: wlan0: STA AA:BB:CC:DD:EE:FF IEEE 802.11: associated
+Jun 30 23:56:36 router daemon.info dnsmasq-dhcp: DHCPDISCOVER(eth0) from AA:BB:CC:DD:EE:FF
+Jun 30 04:17:00 router daemon.notice admin: User 'admin' logged in from 192.168.1.10
+Jul 01 06:00:01 router daemon.notice netifd: Network device wlan0 (phy0) link is up
+Jul 01 05:00:33 router daemon.info hostapd: wlan0: STA 84:16:F9:8D:62:5E IEEE 802.11: disconnected
+Jun 30 23:54:07 router daemon.err kernel: CPU load spike detected on core 2
+Jun 30 17:04:11 router daemon.notice crond: Executed scheduled job `/usr/bin/logrotate`
+Jun 30 11:44:35 router daemon.notice crond: Executed scheduled job `/usr/bin/logrotate`
+Jun 30 08:32:13 router daemon.info dnsmasq-dhcp: DHCPACK(eth0) 192.168.1.10 AA:BB:CC:DD:EE:FF
+Jun 30 05:04:25 router daemon.err kernel: CPU load spike detected on core 2
+Jun 30 21:49:17 router daemon.notice crond: Executed scheduled job `/usr/bin/logrotate`
+Jun 30 11:26:31 router daemon.info hostapd: wlan0: STA DE:AD:BE:EF:FE:ED IEEE 802.11: associated
+Jun 30 03:13:28 router daemon.err kernel: CPU load spike detected on core 2
+Jun 30 13:34:43 router kernel: [UFW BLOCK] IN=eth0 OUT= MAC=xx SRC=192.168.1.15 DST=192.168.1.1 PROTO=ICMP TYPE=8 CODE=0
+Jul 01 06:45:32 router daemon.info dnsmasq-dhcp: DHCPDISCOVER(eth0) from 84:16:F9:8D:62:5E
+Jun 30 07:52:12 router daemon.info dnsmasq-dhcp: DHCPDISCOVER(eth0) from 84:16:F9:8D:62:5E
+Jul 01 02:41:58 router daemon.info dnsmasq-dhcp: DHCPDISCOVER(eth0) from 5C:F9:38:77:22:1A
+Jun 30 02:32:08 router daemon.notice admin: User 'admin' logged in from 192.168.1.50
+Jun 30 19:24:39 router daemon.notice netifd: Network device wlan0 (phy0) link is up
+Jun 30 19:21:09 router daemon.info dnsmasq-dhcp: DHCPDISCOVER(eth0) from 12:34:56:78:9A:BC
+Jun 30 06:54:59 router daemon.alert hostapd: wlan0: Possible deauth flood detected from 84:16:F9:8D:62:5E
+Jul 01 03:03:33 router daemon.notice crond: Executed scheduled job `/usr/bin/logrotate`
+Jun 30 00:03:14 router daemon.info dnsmasq-dhcp: DHCPDISCOVER(eth0) from 00:11:22:33:44:55
+Jul 01 08:13:42 router daemon.alert hostapd: wlan0: Possible deauth flood detected from 00:11:22:33:44:55
+Jun 30 08:03:06 router daemon.notice systemd: Time synchronization achieved
+Jun 30 15:52:25 router daemon.notice netifd: Interface wlan0 has link connectivity
+Jul 01 06:02:35 router daemon.info hostapd: wlan0: STA 00:11:22:33:44:55 IEEE 802.11: disconnected
+Jun 30 14:49:11 router daemon.info hostapd: wlan0: STA DE:AD:BE:EF:FE:ED WPA: group key handshake completed
+Jun 30 13:49:53 router daemon.info hostapd: wlan0: STA AA:BB:CC:DD:EE:FF IEEE 802.11: associated
+Jun 30 12:48:22 router daemon.notice netifd: Interface wlan0 has link connectivity
+Jun 30 22:44:20 router daemon.alert hostapd: wlan0: Possible deauth flood detected from 5C:F9:38:77:22:1A
+Jun 30 17:08:32 router daemon.notice netifd: Interface wlan0 has link connectivity
+Jun 30 05:46:57 router daemon.info hostapd: wlan0: STA 12:34:56:78:9A:BC IEEE 802.11: disconnected
+Jul 01 04:37:21 router daemon.info dnsmasq-dhcp: DHCPDISCOVER(eth0) from AA:BB:CC:DD:EE:FF
+Jun 30 04:11:02 router daemon.info dnsmasq-dhcp: DHCPDISCOVER(eth0) from 5C:F9:38:77:22:1A
+Jun 30 13:08:52 router daemon.warn hostapd: wlan0: STA 84:16:F9:8D:62:5E IEEE 802.11: deauthenticated due to local deauth request
+Jun 30 20:53:48 router daemon.info hostapd: wlan0: STA 5C:F9:38:77:22:1A IEEE 802.11: disconnected
+Jul 01 02:03:39 router daemon.err kernel: CPU load spike detected on core 2
+Jun 30 14:24:45 router daemon.info hostapd: wlan0: STA DE:AD:BE:EF:FE:ED WPA: group key handshake completed
+Jul 01 00:36:59 router daemon.info hostapd: wlan0: STA DE:AD:BE:EF:FE:ED IEEE 802.11: associated
+Jun 30 10:56:36 router daemon.info hostapd: wlan0: STA DE:AD:BE:EF:FE:ED WPA: group key handshake completed
+Jun 30 02:04:25 router kernel: [UFW BLOCK] IN=eth0 OUT= MAC=xx SRC=192.168.1.21 DST=192.168.1.1 PROTO=ICMP TYPE=8 CODE=0
+Jun 30 00:35:07 router daemon.notice systemd: Time synchronization achieved
+Jun 30 22:22:55 router daemon.notice netifd: Network device wlan0 (phy0) link is up
+Jun 30 14:03:01 router daemon.warn firewall: Blocked connection attempt from 192.168.1.50 to port 22 (HTTP)
+Jul 01 08:36:37 router daemon.err kernel: CPU load spike detected on core 2
+Jun 30 14:30:18 router daemon.info hostapd: wlan0: STA AA:BB:CC:DD:EE:FF IEEE 802.11: disconnected
+Jul 01 08:51:12 router daemon.err kernel: CPU load spike detected on core 2
+Jun 30 12:54:14 router daemon.info hostapd: wlan0: STA 5C:F9:38:77:22:1A IEEE 802.11: disconnected
+Jul 01 05:09:22 router daemon.info hostapd: wlan0: STA DE:AD:BE:EF:FE:ED IEEE 802.11: associated
+Jul 01 02:31:20 router daemon.info hostapd: wlan0: STA 12:34:56:78:9A:BC IEEE 802.11: disconnected
+Jun 30 17:16:46 router daemon.warn hostapd: wlan0: STA 5C:F9:38:77:22:1A IEEE 802.11: deauthenticated due to local deauth request
+Jun 30 11:36:53 router daemon.notice systemd: Time synchronization achieved
+Jun 30 12:26:41 router kernel: [UFW BLOCK] IN=eth0 OUT= MAC=xx SRC=192.168.1.15 DST=192.168.1.1 PROTO=ICMP TYPE=8 CODE=0
+Jul 01 05:58:45 router daemon.notice crond: Executed scheduled job `/usr/bin/logrotate`
+Jul 01 02:54:53 router daemon.notice systemd: Time synchronization achieved
+Jul 01 03:04:22 router daemon.warn firewall: Blocked connection attempt from 203.0.113.5 to port 22 (SSH)
+Jun 30 18:52:56 router daemon.notice netifd: Interface wlan0 has link connectivity
+Jun 30 04:04:35 router daemon.info dnsmasq-dhcp: DHCPACK(eth0) 10.0.0.12 DE:AD:BE:EF:FE:ED
+Jun 30 01:19:30 router daemon.warn hostapd: wlan0: STA AA:BB:CC:DD:EE:FF IEEE 802.11: deauthenticated due to local deauth request
+Jun 30 04:19:03 router daemon.err kernel: CPU load spike detected on core 2
+Jun 30 00:39:46 router daemon.notice crond: Executed scheduled job `/usr/bin/logrotate`
+Jul 01 02:05:57 router daemon.info dnsmasq-dhcp: DHCPACK(eth0) 192.168.1.50 AA:BB:CC:DD:EE:FF
+Jun 30 15:10:52 router daemon.notice netifd: Interface wlan0 has link connectivity
+Jul 01 05:05:39 router daemon.info hostapd: wlan0: STA 12:34:56:78:9A:BC IEEE 802.11: associated
+Jul 01 02:55:34 router daemon.notice systemd: Time synchronization achieved
+Jul 01 04:20:01 router kernel: [UFW BLOCK] IN=eth0 OUT= MAC=xx SRC=192.168.1.10 DST=192.168.1.1 PROTO=ICMP TYPE=8 CODE=0
+Jun 30 05:13:56 router daemon.notice admin: User 'guest' logged in from 192.168.1.15
+Jul 01 02:50:52 router daemon.info dnsmasq-dhcp: DHCPDISCOVER(eth0) from 84:16:F9:8D:62:5E
+Jun 30 00:10:16 router daemon.notice crond: Executed scheduled job `/usr/bin/logrotate`
+Jun 30 13:01:22 router daemon.warn hostapd: wlan0: STA 00:11:22:33:44:55 IEEE 802.11: deauthenticated due to local deauth request
+Jul 01 03:26:33 router kernel: IN=eth0 OUT= MAC=xx SRC=203.0.113.5 DST=192.168.1.1 PROTO=TCP SPT=15542 DPT=80
+Jul 01 01:12:38 router daemon.info dnsmasq-dhcp: DHCPACK(eth0) 203.0.113.5 00:11:22:33:44:55
+Jun 30 21:51:20 router daemon.info dnsmasq-dhcp: DHCPACK(eth0) 10.0.0.12 12:34:56:78:9A:BC
+Jun 30 11:57:45 router kernel: [UFW BLOCK] IN=eth0 OUT= MAC=xx SRC=192.168.1.10 DST=192.168.1.1 PROTO=ICMP TYPE=8 CODE=0
+Jun 30 23:42:11 router daemon.notice netifd: Network device wlan0 (phy0) link is up
+Jun 30 19:49:28 router daemon.alert hostapd: wlan0: Possible deauth flood detected from 00:11:22:33:44:55
+Jul 01 00:21:12 router daemon.notice netifd: Network device wlan0 (phy0) link is up
+Jun 30 17:08:47 router daemon.info dnsmasq-dhcp: DHCPACK(eth0) 10.0.0.12 84:16:F9:8D:62:5E
+Jun 30 06:18:24 router daemon.alert hostapd: wlan0: Possible deauth flood detected from 12:34:56:78:9A:BC
+Jul 01 05:11:53 router daemon.notice admin: User 'guest' logged in from 10.0.0.12
+Jun 30 00:29:10 router daemon.notice netifd: Interface wlan0 has link connectivity
+Jul 01 05:28:18 router daemon.info hostapd: wlan0: STA 84:16:F9:8D:62:5E IEEE 802.11: associated
+Jul 01 02:34:39 router daemon.warn firewall: Blocked connection attempt from 172.16.0.1 to port 443 (TELNET)
+Jun 30 04:34:19 router daemon.notice crond: Executed scheduled job `/usr/bin/logrotate`
+Jun 30 19:43:09 router daemon.warn hostapd: wlan0: STA 00:11:22:33:44:55 IEEE 802.11: deauthenticated due to local deauth request
+Jun 30 11:35:00 router kernel: IN=eth0 OUT= MAC=xx SRC=203.0.113.5 DST=192.168.1.1 PROTO=UDP SPT=43721 DPT=22
+Jul 01 06:18:32 router kernel: [UFW BLOCK] IN=eth0 OUT= MAC=xx SRC=172.16.0.1 DST=192.168.1.1 PROTO=ICMP TYPE=8 CODE=0
+Jun 30 13:23:33 router daemon.warn firewall: Blocked connection attempt from 192.168.1.10 to port 8080 (SSH)
+Jun 30 08:24:18 router daemon.notice netifd: Network device wlan0 (phy0) link is up
+Jun 30 00:47:55 router daemon.info dnsmasq-dhcp: DHCPDISCOVER(eth0) from DE:AD:BE:EF:FE:ED
+Jun 30 11:32:45 router daemon.info hostapd: wlan0: STA 84:16:F9:8D:62:5E WPA: group key handshake completed
+Jul 01 01:21:15 router daemon.warn hostapd: wlan0: STA 12:34:56:78:9A:BC IEEE 802.11: deauthenticated due to local deauth request
+Jun 30 17:25:28 router daemon.warn hostapd: wlan0: STA 84:16:F9:8D:62:5E IEEE 802.11: deauthenticated due to local deauth request
+Jun 30 14:45:28 router kernel: IN=eth0 OUT= MAC=xx SRC=192.168.1.50 DST=192.168.1.1 PROTO=ICMP SPT=24524 DPT=22
+Jun 30 07:33:38 router kernel: [UFW BLOCK] IN=eth0 OUT= MAC=xx SRC=192.168.1.15 DST=192.168.1.1 PROTO=ICMP TYPE=8 CODE=0
+Jul 01 07:20:25 router daemon.info hostapd: wlan0: STA 12:34:56:78:9A:BC IEEE 802.11: disconnected
+Jul 01 07:22:53 router daemon.info hostapd: wlan0: STA 84:16:F9:8D:62:5E WPA: group key handshake completed
+Jun 30 10:09:09 router daemon.err kernel: CPU load spike detected on core 2
+Jun 30 01:45:10 router kernel: IN=eth0 OUT= MAC=xx SRC=192.168.1.21 DST=192.168.1.1 PROTO=TCP SPT=38646 DPT=23
+Jun 30 04:17:26 router daemon.notice systemd: Time synchronization achieved
+Jun 30 05:51:27 router daemon.err kernel: CPU load spike detected on core 2
+Jun 30 02:26:41 router daemon.info dnsmasq-dhcp: DHCPACK(eth0) 203.0.113.5 DE:AD:BE:EF:FE:ED
+Jul 01 04:24:55 router daemon.info hostapd: wlan0: STA 00:11:22:33:44:55 WPA: group key handshake completed
+Jun 30 21:00:15 router daemon.warn hostapd: wlan0: STA 00:11:22:33:44:55 IEEE 802.11: deauthenticated due to local deauth request
+Jun 30 03:37:55 router daemon.warn firewall: Blocked connection attempt from 192.168.1.15 to port 80 (TELNET)
+Jun 30 22:39:18 router daemon.info dnsmasq-dhcp: DHCPACK(eth0) 192.168.1.10 5C:F9:38:77:22:1A
+Jul 01 06:52:40 router daemon.info dnsmasq-dhcp: DHCPACK(eth0) 192.168.1.50 DE:AD:BE:EF:FE:ED
+Jul 01 06:47:06 router daemon.notice systemd: Time synchronization achieved
+Jun 30 17:18:45 router daemon.info hostapd: wlan0: STA AA:BB:CC:DD:EE:FF IEEE 802.11: associated
+Jul 01 00:01:46 router daemon.info hostapd: wlan0: STA 00:11:22:33:44:55 WPA: group key handshake completed
+Jul 01 04:39:14 router kernel: IN=eth0 OUT= MAC=xx SRC=172.16.0.1 DST=192.168.1.1 PROTO=ICMP SPT=59812 DPT=8080
+Jun 30 22:22:23 router daemon.notice admin: User 'admin' logged in from 192.168.1.15
+Jun 30 22:53:23 router daemon.info dnsmasq-dhcp: DHCPACK(eth0) 192.168.1.15 5C:F9:38:77:22:1A
+Jun 30 17:55:21 router daemon.err kernel: CPU load spike detected on core 2
+Jun 30 13:19:49 router daemon.info hostapd: wlan0: STA DE:AD:BE:EF:FE:ED IEEE 802.11: associated
+Jun 30 20:24:25 router daemon.info hostapd: wlan0: STA 12:34:56:78:9A:BC WPA: group key handshake completed
+Jun 30 08:35:26 router daemon.info dnsmasq-dhcp: DHCPDISCOVER(eth0) from 00:11:22:33:44:55
+Jun 30 11:44:54 router daemon.warn hostapd: wlan0: STA AA:BB:CC:DD:EE:FF IEEE 802.11: deauthenticated due to local deauth request
+Jun 30 23:15:08 router daemon.notice netifd: Network device wlan0 (phy0) link is up
+Jul 01 05:47:25 router kernel: [UFW BLOCK] IN=eth0 OUT= MAC=xx SRC=10.0.0.12 DST=192.168.1.1 PROTO=ICMP TYPE=8 CODE=0
+Jun 30 18:24:01 router daemon.info hostapd: wlan0: STA 00:11:22:33:44:55 IEEE 802.11: disconnected
+Jun 30 19:42:18 router daemon.notice admin: User 'admin' logged in from 192.168.1.50
+Jun 30 21:57:43 router daemon.notice netifd: Network device wlan0 (phy0) link is up
+Jul 01 03:06:10 router daemon.warn hostapd: wlan0: STA 12:34:56:78:9A:BC IEEE 802.11: deauthenticated due to local deauth request
+Jul 01 08:43:51 router daemon.info hostapd: wlan0: STA 00:11:22:33:44:55 IEEE 802.11: disconnected
+Jul 01 05:30:48 router daemon.info dnsmasq-dhcp: DHCPDISCOVER(eth0) from 00:11:22:33:44:55
+Jun 30 04:58:25 router daemon.notice netifd: Network device wlan0 (phy0) link is up
+Jun 30 15:15:28 router daemon.warn hostapd: wlan0: STA 12:34:56:78:9A:BC IEEE 802.11: deauthenticated due to local deauth request
+Jun 30 12:19:28 router kernel: IN=eth0 OUT= MAC=xx SRC=203.0.113.5 DST=192.168.1.1 PROTO=TCP SPT=40092 DPT=443
+Jun 30 23:17:01 router daemon.err kernel: CPU load spike detected on core 2
+Jul 01 03:30:27 router daemon.info hostapd: wlan0: STA DE:AD:BE:EF:FE:ED IEEE 802.11: disconnected
+Jun 30 23:01:26 router daemon.notice crond: Executed scheduled job `/usr/bin/logrotate`
+Jun 30 00:23:34 router daemon.notice netifd: Network device wlan0 (phy0) link is up
+Jun 30 13:25:42 router daemon.info dnsmasq-dhcp: DHCPDISCOVER(eth0) from 12:34:56:78:9A:BC
+Jun 30 15:53:45 router daemon.info hostapd: wlan0: STA DE:AD:BE:EF:FE:ED IEEE 802.11: associated
+Jun 30 16:53:45 router daemon.notice netifd: Network device wlan0 (phy0) link is up
+Jul 01 08:50:43 router daemon.alert hostapd: wlan0: Possible deauth flood detected from AA:BB:CC:DD:EE:FF
+Jul 01 04:16:34 router daemon.notice systemd: Time synchronization achieved
+Jun 30 17:31:06 router daemon.notice systemd: Time synchronization achieved
+Jul 01 04:43:14 router daemon.info dnsmasq-dhcp: DHCPACK(eth0) 203.0.113.5 12:34:56:78:9A:BC
+Jun 30 05:48:56 router daemon.notice systemd: Time synchronization achieved
+Jun 30 09:26:15 router daemon.warn hostapd: wlan0: STA 00:11:22:33:44:55 IEEE 802.11: deauthenticated due to local deauth request
+Jun 30 16:41:48 router daemon.info hostapd: wlan0: STA DE:AD:BE:EF:FE:ED IEEE 802.11: disconnected
+Jun 30 21:42:51 router daemon.notice admin: User 'guest' logged in from 10.0.0.12
+Jul 01 06:38:48 router kernel: IN=eth0 OUT= MAC=xx SRC=192.168.1.50 DST=192.168.1.1 PROTO=TCP SPT=61065 DPT=22
+Jun 30 23:17:05 router daemon.err kernel: CPU load spike detected on core 2
+Jun 30 01:36:17 router kernel: [UFW BLOCK] IN=eth0 OUT= MAC=xx SRC=10.0.0.12 DST=192.168.1.1 PROTO=ICMP TYPE=8 CODE=0
+Jul 01 00:18:54 router daemon.err kernel: CPU load spike detected on core 2
+Jun 30 09:04:02 router daemon.notice netifd: Network device wlan0 (phy0) link is up
+Jun 30 09:11:18 router daemon.info hostapd: wlan0: STA 5C:F9:38:77:22:1A WPA: group key handshake completed
+Jun 30 06:51:59 router daemon.info hostapd: wlan0: STA AA:BB:CC:DD:EE:FF IEEE 802.11: disconnected
+Jun 30 14:36:36 router kernel: [UFW BLOCK] IN=eth0 OUT= MAC=xx SRC=192.168.1.50 DST=192.168.1.1 PROTO=ICMP TYPE=8 CODE=0
+Jul 01 01:37:06 router daemon.info hostapd: wlan0: STA 00:11:22:33:44:55 WPA: group key handshake completed
+Jun 30 03:22:33 router daemon.warn hostapd: wlan0: STA AA:BB:CC:DD:EE:FF IEEE 802.11: deauthenticated due to local deauth request
+Jun 30 23:08:39 router daemon.alert hostapd: wlan0: Possible deauth flood detected from 00:11:22:33:44:55
+Jul 01 06:20:25 router daemon.info hostapd: wlan0: STA 12:34:56:78:9A:BC IEEE 802.11: disconnected
+Jul 01 00:13:34 router daemon.info dnsmasq-dhcp: DHCPDISCOVER(eth0) from 84:16:F9:8D:62:5E
+Jul 01 07:58:57 router daemon.info hostapd: wlan0: STA 00:11:22:33:44:55 WPA: group key handshake completed
+Jun 30 00:15:32 router daemon.info hostapd: wlan0: STA 00:11:22:33:44:55 IEEE 802.11: associated
+Jul 01 02:46:45 router kernel: [UFW BLOCK] IN=eth0 OUT= MAC=xx SRC=203.0.113.5 DST=192.168.1.1 PROTO=ICMP TYPE=8 CODE=0
+Jul 01 02:12:05 router daemon.notice systemd: Time synchronization achieved
+Jul 01 04:03:35 router daemon.notice netifd: Network device wlan0 (phy0) link is up
+Jun 30 08:49:00 router daemon.info hostapd: wlan0: STA 00:11:22:33:44:55 IEEE 802.11: disconnected
+Jun 30 22:29:20 router daemon.info dnsmasq-dhcp: DHCPACK(eth0) 192.168.1.10 AA:BB:CC:DD:EE:FF
+Jun 30 04:18:58 router daemon.info dnsmasq-dhcp: DHCPDISCOVER(eth0) from 00:11:22:33:44:55
+Jun 30 08:46:35 router daemon.notice systemd: Time synchronization achieved
+Jun 30 04:30:54 router daemon.notice systemd: Time synchronization achieved
+Jun 30 16:32:53 router daemon.info hostapd: wlan0: STA 5C:F9:38:77:22:1A WPA: group key handshake completed
+Jul 01 08:19:34 router daemon.warn firewall: Blocked connection attempt from 192.168.1.10 to port 22 (TELNET)
+Jun 30 15:15:16 router daemon.info dnsmasq-dhcp: DHCPACK(eth0) 10.0.0.12 00:11:22:33:44:55
+Jun 30 09:35:14 router daemon.notice crond: Executed scheduled job `/usr/bin/logrotate`
+Jul 01 08:34:24 router daemon.info hostapd: wlan0: STA 5C:F9:38:77:22:1A IEEE 802.11: disconnected
+Jun 30 04:30:42 router daemon.warn hostapd: wlan0: STA 12:34:56:78:9A:BC IEEE 802.11: deauthenticated due to local deauth request
+Jun 30 09:05:07 router daemon.info dnsmasq-dhcp: DHCPDISCOVER(eth0) from DE:AD:BE:EF:FE:ED
+Jun 30 13:10:03 router daemon.notice systemd: Time synchronization achieved
+Jun 30 14:00:43 router daemon.info dnsmasq-dhcp: DHCPACK(eth0) 192.168.1.50 84:16:F9:8D:62:5E
+Jun 30 12:41:22 router daemon.info hostapd: wlan0: STA 5C:F9:38:77:22:1A WPA: group key handshake completed
+Jul 01 02:49:03 router daemon.notice crond: Executed scheduled job `/usr/bin/logrotate`
+Jul 01 02:36:52 router daemon.notice netifd: Network device wlan0 (phy0) link is up
+Jun 30 00:01:06 router daemon.alert hostapd: wlan0: Possible deauth flood detected from 12:34:56:78:9A:BC
+Jun 30 01:14:58 router daemon.notice crond: Executed scheduled job `/usr/bin/logrotate`
+Jul 01 03:50:39 router daemon.info hostapd: wlan0: STA 12:34:56:78:9A:BC IEEE 802.11: disconnected
+Jun 30 00:50:55 router daemon.notice netifd: Interface wlan0 has link connectivity
+Jul 01 08:53:53 router daemon.warn hostapd: wlan0: STA 84:16:F9:8D:62:5E IEEE 802.11: deauthenticated due to local deauth request
+Jun 30 22:24:46 router kernel: IN=eth0 OUT= MAC=xx SRC=203.0.113.5 DST=192.168.1.1 PROTO=UDP SPT=63964 DPT=80
+Jun 30 01:34:16 router kernel: [UFW BLOCK] IN=eth0 OUT= MAC=xx SRC=203.0.113.5 DST=192.168.1.1 PROTO=ICMP TYPE=8 CODE=0
+Jun 30 11:12:24 router kernel: IN=eth0 OUT= MAC=xx SRC=192.168.1.15 DST=192.168.1.1 PROTO=ICMP SPT=53836 DPT=22
+Jul 01 05:09:30 router daemon.alert hostapd: wlan0: Possible deauth flood detected from 5C:F9:38:77:22:1A
+Jul 01 00:40:15 router daemon.notice admin: User 'guest' logged in from 192.168.1.10
+Jul 01 04:50:35 router daemon.notice netifd: Interface wlan0 has link connectivity
+Jul 01 02:27:53 router daemon.err kernel: CPU load spike detected on core 2
+Jul 01 01:54:45 router daemon.notice systemd: Time synchronization achieved
+Jun 30 07:52:24 router daemon.alert hostapd: wlan0: Possible deauth flood detected from DE:AD:BE:EF:FE:ED
+Jul 01 08:47:12 router daemon.err kernel: CPU load spike detected on core 2
+Jun 30 01:26:45 router kernel: [UFW BLOCK] IN=eth0 OUT= MAC=xx SRC=10.0.0.12 DST=192.168.1.1 PROTO=ICMP TYPE=8 CODE=0
+Jun 30 19:37:32 router daemon.info dnsmasq-dhcp: DHCPACK(eth0) 192.168.1.10 12:34:56:78:9A:BC
+Jun 30 23:57:29 router daemon.notice netifd: Interface wlan0 has link connectivity
+Jun 30 00:34:13 router daemon.warn firewall: Blocked connection attempt from 10.0.0.12 to port 8080 (TELNET)
+Jun 30 17:38:01 router daemon.alert hostapd: wlan0: Possible deauth flood detected from 84:16:F9:8D:62:5E
+Jul 01 05:24:50 router daemon.notice netifd: Interface wlan0 has link connectivity
+Jun 30 23:57:13 router daemon.notice netifd: Interface wlan0 has link connectivity
+Jul 01 07:14:18 router daemon.info hostapd: wlan0: STA 84:16:F9:8D:62:5E IEEE 802.11: disconnected
+Jul 01 06:16:40 router daemon.info dnsmasq-dhcp: DHCPACK(eth0) 192.168.1.21 12:34:56:78:9A:BC
+Jul 01 08:17:25 router daemon.info dnsmasq-dhcp: DHCPACK(eth0) 192.168.1.21 12:34:56:78:9A:BC
+Jun 30 03:11:57 router daemon.notice systemd: Time synchronization achieved
+Jun 30 12:15:36 router daemon.notice admin: User 'admin' logged in from 10.0.0.12
+Jun 30 17:01:03 router daemon.info hostapd: wlan0: STA 84:16:F9:8D:62:5E IEEE 802.11: disconnected
+Jun 30 21:27:37 router daemon.info hostapd: wlan0: STA AA:BB:CC:DD:EE:FF WPA: group key handshake completed
+Jun 30 11:30:21 router daemon.alert hostapd: wlan0: Possible deauth flood detected from 5C:F9:38:77:22:1A
+Jun 30 22:49:53 router daemon.info dnsmasq-dhcp: DHCPACK(eth0) 192.168.1.21 00:11:22:33:44:55
+Jun 30 09:14:27 router daemon.err kernel: CPU load spike detected on core 2
+Jun 30 17:07:30 router kernel: [UFW BLOCK] IN=eth0 OUT= MAC=xx SRC=192.168.1.10 DST=192.168.1.1 PROTO=ICMP TYPE=8 CODE=0
+Jun 30 23:40:39 router kernel: [UFW BLOCK] IN=eth0 OUT= MAC=xx SRC=192.168.1.50 DST=192.168.1.1 PROTO=ICMP TYPE=8 CODE=0
+Jun 30 02:30:40 router daemon.err kernel: CPU load spike detected on core 2
+Jun 30 01:09:21 router daemon.err kernel: CPU load spike detected on core 2
+Jul 01 05:05:46 router daemon.notice admin: User 'guest' logged in from 192.168.1.15
+Jun 30 15:58:40 router daemon.notice admin: User 'root' logged in from 172.16.0.1
+Jun 30 10:08:47 router daemon.notice systemd: Time synchronization achieved
+Jul 01 00:39:34 router daemon.info hostapd: wlan0: STA 5C:F9:38:77:22:1A IEEE 802.11: associated
+Jun 30 05:09:33 router kernel: IN=eth0 OUT= MAC=xx SRC=192.168.1.15 DST=192.168.1.1 PROTO=UDP SPT=32653 DPT=23
+Jul 01 03:06:42 router daemon.notice systemd: Time synchronization achieved
+Jun 30 02:13:15 router daemon.notice netifd: Interface wlan0 has link connectivity
+Jun 30 07:28:40 router daemon.warn firewall: Blocked connection attempt from 192.168.1.15 to port 443 (HTTP)
+Jun 30 19:06:04 router daemon.notice crond: Executed scheduled job `/usr/bin/logrotate`
+Jun 30 21:10:59 router daemon.alert hostapd: wlan0: Possible deauth flood detected from 5C:F9:38:77:22:1A
+Jul 01 00:45:42 router daemon.warn hostapd: wlan0: STA 5C:F9:38:77:22:1A IEEE 802.11: deauthenticated due to local deauth request
+Jul 01 05:51:14 router daemon.err kernel: CPU load spike detected on core 2
+Jul 01 01:39:08 router daemon.info dnsmasq-dhcp: DHCPACK(eth0) 172.16.0.1 5C:F9:38:77:22:1A
+Jun 30 12:26:07 router daemon.info hostapd: wlan0: STA AA:BB:CC:DD:EE:FF IEEE 802.11: disconnected
+Jun 30 19:54:33 router daemon.notice systemd: Time synchronization achieved
+Jun 30 22:53:51 router daemon.info hostapd: wlan0: STA 00:11:22:33:44:55 IEEE 802.11: disconnected
+Jun 30 04:56:17 router daemon.info dnsmasq-dhcp: DHCPACK(eth0) 192.168.1.21 84:16:F9:8D:62:5E
+Jul 01 09:08:09 router daemon.notice netifd: Network device wlan0 (phy0) link is up
+Jun 30 09:20:39 router daemon.info dnsmasq-dhcp: DHCPACK(eth0) 192.168.1.50 00:11:22:33:44:55
+Jun 30 18:54:12 router kernel: [UFW BLOCK] IN=eth0 OUT= MAC=xx SRC=203.0.113.5 DST=192.168.1.1 PROTO=ICMP TYPE=8 CODE=0
+Jun 30 20:35:59 router daemon.warn hostapd: wlan0: STA 84:16:F9:8D:62:5E IEEE 802.11: deauthenticated due to local deauth request
+Jul 01 08:17:45 router daemon.alert hostapd: wlan0: Possible deauth flood detected from 84:16:F9:8D:62:5E
+Jun 30 11:37:27 router daemon.info dnsmasq-dhcp: DHCPDISCOVER(eth0) from 84:16:F9:8D:62:5E
+Jun 30 07:09:09 router daemon.notice netifd: Network device wlan0 (phy0) link is up
+Jun 30 16:33:16 router daemon.warn hostapd: wlan0: STA DE:AD:BE:EF:FE:ED IEEE 802.11: deauthenticated due to local deauth request
+Jul 01 03:22:07 router daemon.info dnsmasq-dhcp: DHCPACK(eth0) 192.168.1.50 AA:BB:CC:DD:EE:FF
+Jul 01 02:09:22 router kernel: IN=eth0 OUT= MAC=xx SRC=172.16.0.1 DST=192.168.1.1 PROTO=UDP SPT=55342 DPT=8080
+Jun 30 17:37:47 router daemon.notice netifd: Interface wlan0 has link connectivity
+Jun 30 14:07:19 router daemon.notice netifd: Interface wlan0 has link connectivity
+Jun 30 18:51:04 router daemon.warn hostapd: wlan0: STA 12:34:56:78:9A:BC IEEE 802.11: deauthenticated due to local deauth request
+Jul 01 00:33:46 router daemon.notice netifd: Network device wlan0 (phy0) link is up
+Jun 30 00:33:09 router daemon.warn firewall: Blocked connection attempt from 203.0.113.5 to port 22 (FTP)
+Jun 30 19:54:08 router daemon.err kernel: CPU load spike detected on core 2
+Jun 30 07:19:31 router daemon.warn firewall: Blocked connection attempt from 192.168.1.50 to port 80 (FTP)
+Jun 30 05:22:07 router kernel: [UFW BLOCK] IN=eth0 OUT= MAC=xx SRC=192.168.1.50 DST=192.168.1.1 PROTO=ICMP TYPE=8 CODE=0
+Jun 30 18:27:35 router daemon.notice systemd: Time synchronization achieved
+Jul 01 06:41:48 router daemon.warn firewall: Blocked connection attempt from 192.168.1.21 to port 443 (HTTP)
+Jun 30 14:20:38 router daemon.warn firewall: Blocked connection attempt from 192.168.1.15 to port 8080 (HTTPS)
+Jun 30 19:30:23 router daemon.alert hostapd: wlan0: Possible deauth flood detected from 12:34:56:78:9A:BC
+Jun 30 01:03:02 router daemon.info hostapd: wlan0: STA 5C:F9:38:77:22:1A IEEE 802.11: associated
+Jun 30 11:52:38 router daemon.info dnsmasq-dhcp: DHCPDISCOVER(eth0) from DE:AD:BE:EF:FE:ED
+Jun 30 23:52:01 router daemon.info dnsmasq-dhcp: DHCPDISCOVER(eth0) from 5C:F9:38:77:22:1A
+Jun 30 09:05:37 router daemon.info hostapd: wlan0: STA 5C:F9:38:77:22:1A IEEE 802.11: associated
+Jun 30 10:26:59 router daemon.notice crond: Executed scheduled job `/usr/bin/logrotate`
+Jun 30 17:04:31 router daemon.err kernel: CPU load spike detected on core 2
+Jul 01 06:00:42 router daemon.warn hostapd: wlan0: STA AA:BB:CC:DD:EE:FF IEEE 802.11: deauthenticated due to local deauth request
+Jul 01 02:26:10 router daemon.notice netifd: Interface wlan0 has link connectivity
+Jul 01 08:46:53 router daemon.info hostapd: wlan0: STA AA:BB:CC:DD:EE:FF IEEE 802.11: associated
+Jul 01 01:23:10 router kernel: [UFW BLOCK] IN=eth0 OUT= MAC=xx SRC=172.16.0.1 DST=192.168.1.1 PROTO=ICMP TYPE=8 CODE=0
+Jun 30 06:39:40 router daemon.info hostapd: wlan0: STA 84:16:F9:8D:62:5E IEEE 802.11: disconnected
+Jun 30 21:50:27 router daemon.notice admin: User 'root' logged in from 10.0.0.12
+Jun 30 10:15:41 router daemon.info hostapd: wlan0: STA 12:34:56:78:9A:BC IEEE 802.11: associated
+Jun 30 16:52:18 router kernel: [UFW BLOCK] IN=eth0 OUT= MAC=xx SRC=192.168.1.15 DST=192.168.1.1 PROTO=ICMP TYPE=8 CODE=0
+Jul 01 05:07:15 router kernel: [UFW BLOCK] IN=eth0 OUT= MAC=xx SRC=192.168.1.10 DST=192.168.1.1 PROTO=ICMP TYPE=8 CODE=0
+Jul 01 03:04:28 router daemon.warn firewall: Blocked connection attempt from 203.0.113.5 to port 23 (TELNET)
+Jun 30 00:04:46 router daemon.alert hostapd: wlan0: Possible deauth flood detected from AA:BB:CC:DD:EE:FF
+Jun 30 05:11:35 router daemon.warn hostapd: wlan0: STA AA:BB:CC:DD:EE:FF IEEE 802.11: deauthenticated due to local deauth request
+Jun 30 10:08:02 router daemon.err kernel: CPU load spike detected on core 2
+Jun 30 01:47:50 router daemon.info hostapd: wlan0: STA DE:AD:BE:EF:FE:ED WPA: group key handshake completed
+Jul 01 04:13:23 router daemon.info hostapd: wlan0: STA AA:BB:CC:DD:EE:FF IEEE 802.11: associated
+Jun 30 10:08:04 router daemon.info hostapd: wlan0: STA 84:16:F9:8D:62:5E WPA: group key handshake completed
+Jun 30 02:42:27 router daemon.notice admin: User 'admin' logged in from 192.168.1.15
+Jun 30 16:37:15 router daemon.info hostapd: wlan0: STA 5C:F9:38:77:22:1A IEEE 802.11: disconnected
+Jun 30 23:52:05 router kernel: IN=eth0 OUT= MAC=xx SRC=192.168.1.50 DST=192.168.1.1 PROTO=TCP SPT=29038 DPT=443
+Jun 30 22:41:44 router daemon.notice netifd: Interface wlan0 has link connectivity
+Jun 30 12:47:59 router daemon.alert hostapd: wlan0: Possible deauth flood detected from AA:BB:CC:DD:EE:FF
+Jun 30 11:12:33 router daemon.warn hostapd: wlan0: STA 00:11:22:33:44:55 IEEE 802.11: deauthenticated due to local deauth request
+Jun 30 12:40:02 router daemon.notice admin: User 'guest' logged in from 10.0.0.12
+Jun 30 17:33:59 router daemon.notice crond: Executed scheduled job `/usr/bin/logrotate`
+Jun 30 14:44:10 router daemon.notice systemd: Time synchronization achieved
+Jun 30 16:15:29 router daemon.info hostapd: wlan0: STA 84:16:F9:8D:62:5E WPA: group key handshake completed
+Jun 30 14:51:06 router daemon.notice admin: User 'guest' logged in from 192.168.1.15
+Jun 30 00:24:49 router daemon.info hostapd: wlan0: STA 84:16:F9:8D:62:5E IEEE 802.11: associated
+Jun 30 15:43:13 router daemon.notice crond: Executed scheduled job `/usr/bin/logrotate`
+Jul 01 08:49:37 router daemon.notice admin: User 'root' logged in from 192.168.1.15
