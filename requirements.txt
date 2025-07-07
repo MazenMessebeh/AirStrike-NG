@@ -1,0 +1,6 @@
+Flask
+scapy
+matplotlib
+colorama
+cryptography
+tabulate

